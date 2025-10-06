@@ -1,0 +1,20 @@
+<users>
+  <user>
+    <id>1</id>
+    <username>Alex_G</username>
+    <role>Admin</role>
+    <last_login>2025-10-01</last_login>
+  </user>
+  <user>
+    <id>2</id>
+    <username>Bree_T</username>
+    <role>Editor</role>
+    <last_login>2025-10-03</last_login>
+  </user>
+  <user>
+    <id>3</id>
+    <username>Chris_K</username>
+    <role>Guest</role>
+    <last_login>2025-10-04</last_login>
+  </user>
+</users>

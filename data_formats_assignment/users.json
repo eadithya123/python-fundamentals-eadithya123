@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "Alex_G",
+        "role": "Admin",
+        "last_login": "2025-10-01"
+    },
+    {
+        "id": 2,
+        "username": "Bree_T",
+        "role": "Editor",
+        "last_login": "2025-10-03"
+    },
+    {
+        "id": 3,
+        "username": "Chris_K",
+        "role": "Guest",
+        "last_login": "2025-10-04"
+    }
+]

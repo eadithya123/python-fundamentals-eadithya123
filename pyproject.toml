@@ -1,0 +1,21 @@
+[tool.ruff]
+line-length = 88
+target-version = "py311"
+select = ["E", "W", "F", "I", "C", "N", "D", "B", "FLY", "PLC", "RUF"] # Added more linter rules from your output
+ignore = ["D100", "D101", "D102", "D103", "D104", "D105", "D106", "D107"]
+
+# Add this section to exclude directories
+exclude = [
+    "venv",
+    ".venv",
+    "env",
+    ".env",
+    "__pycache__",
+    "build",
+    "dist",
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+docstring-code-format = true

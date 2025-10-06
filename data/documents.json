@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "authors": ["Douglas Adams"],
+    "is_published": true,
+    "metadata": {
+      "genre": "Science Fiction"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Dune",
+    "authors": ["Frank Herbert"],
+    "is_published": true
+  }
+]
