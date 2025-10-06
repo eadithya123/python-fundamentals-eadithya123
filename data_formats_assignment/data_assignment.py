@@ -73,5 +73,4 @@ def load_and_print_csv(file_path: str):
     print("\n--- Pandas DataFrame Content (from users.csv) ---")
     print(df.to_markdown(index=False))
 
-
-load_and_print_csv("users.csv")
+load_and_print_csv('users.csv')

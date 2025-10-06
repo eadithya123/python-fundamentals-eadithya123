@@ -1,0 +1,12 @@
+City,Date,Avg_Temp_C,Humidity_Pct,Precip_mm,Record_Type,Forecast_Confidence
+London,2025-09-01,18.5,75,0.0,Actual,High
+London,2025-09-02,17.2,78,1.2,Actual,High
+Paris,2025-09-01,21.0,65,0.0,Actual,High
+Paris,2025-09-02,22.5,60,0.0,Actual,High
+Berlin,2025-09-01,15.1,82,3.5,Actual,Medium
+Berlin,2025-09-02,15.1,82,3.5,Actual,Medium
+Rome,2025-09-01,28.0,55,0.0,Forecast,High
+Rome,2025-09-01,28.0,55,0.0,Forecast,High
+Rome,2025-09-02,,58,0.0,Forecast,Medium
+Tokyo,2025-09-01,25,70,,Actual,High
+Tokyo,2025-09-02,25.0,70.1,6.8,Actual,High
