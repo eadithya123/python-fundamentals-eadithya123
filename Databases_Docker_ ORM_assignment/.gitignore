@@ -1,7 +1,8 @@
+venv/
+.venv/
 __pycache__/
 *.pyc
 .vscode/
-.env
-db_data/
-.venv/
-venv/
+.DS_Store
+*.log
+*.sqlite
